@@ -1,1 +1,2 @@
-无注意事项,正常编译即可
+path  sources/meta-openembedded/meta-oe/recipes-multimedia/mplayer
+原版 mpv_0.32.0.bb文件不可用，需要将其替换为mpv_0.34.0.bb文件
