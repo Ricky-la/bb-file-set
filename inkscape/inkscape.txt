@@ -1,2 +1,3 @@
+源构建系统没有本文件  需要将其添加到sources中
 构建完成后将文件系统中/usr/share/icons/Adwaita 的内容替换为 bb-file-set/inkscape/usr/share/icons/Adwaita的内容
 下载地址 https://archive.archlinux.org/packages/a/adwaita-icon-theme/adwaita-icon-theme-41.0-1-any.pkg.tar.zst
