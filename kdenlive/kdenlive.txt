@@ -1,0 +1,2 @@
+1.增加meta-python2层 git://git.openembedded.org/meta-python2   并在bblayers.conf中增加配置
+2.sources/meta-python2/conf/layer.conf  :17 中添加 hardknott //LAYERSERIES_COMPAT_meta-python2 = "kirkstone hardknott"
